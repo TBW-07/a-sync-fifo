@@ -1,0 +1,14 @@
+# Editor settings
+.vscode/
+.idea/
+
+# Temporary simulation/build folders
+sim_build/
+work/
+work-obj*/
+csrc/
+xsim.dir/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
